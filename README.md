@@ -5,9 +5,9 @@ For this asssingment I was instructed to alter existing code for Horiseon Social
 ### changes in code 
 
 tags such as 
-- '<header>'
-- '<nav>'
-- '<figure>'
+- 'header'
+- 'nav'
+- 'figure'
  etc were replaced
 Hero image was moved from the css file to the HTML 
 condensed css file to clean up the code
