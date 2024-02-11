@@ -9,3 +9,5 @@ Hero image was moved from the css file to the HTML
 condensed css file to clean up the code
 
 ## screenshots of updated web page
+<img src="C:\Users\reaga\bootcamp\code-refractor\images\Screenshot (2).png">
+<img src="C:\Users\reaga\bootcamp\code-refractor\images\Screenshot (3).png">
