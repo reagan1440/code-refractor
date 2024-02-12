@@ -17,5 +17,9 @@ condensed css file to clean up the code
 ![Alt text](<assets/images/Screenshot (3).png>)
 
 ## links
+
+### deployed page
 https://reagan1440.github.io/code-refractor/
+
+## repository
 https://github.com/reagan1440/code-refractor
