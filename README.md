@@ -13,5 +13,9 @@ Hero image was moved from the css file to the HTML
 condensed css file to clean up the code
 
 ## screenshots of updated web page
-![Alt text](<images/Screenshot (2).png>)
-![Alt text](<images/Screenshot (3).png>)
+![Alt text](<assets/images/Screenshot (2).png>)
+![Alt text](<assets/images/Screenshot (3).png>)
+
+## links
+https://reagan1440.github.io/code-refractor/
+https://github.com/reagan1440/code-refractor
